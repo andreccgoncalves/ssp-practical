@@ -11,7 +11,7 @@
         </entry>
         <entry vegetarian="true">
             <item>Kombucha</item>
-            <price>2.0</price>
+            <price>2.00</price>
         </entry>
     </section>
     <section name="Side Dishes">
@@ -35,7 +35,7 @@
         </entry>
         <entry>
             <item>Pouched Eggs</item>
-            <price>8</price>
+            <price>8.00</price>
         </entry>
         <entry vegetarian="true">
             <item>French Toast</item>
@@ -53,7 +53,7 @@
         </entry>
         <entry vegetarian="true">
             <item>Falafel</item>
-            <price>10</price>
+            <price>10.00</price>
         </entry>
     </section>
     <section name="Dinner">
